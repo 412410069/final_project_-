@@ -229,7 +229,11 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &329332373
+=======
+--- !u!1 &1381827532
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
 =======
 --- !u!1 &1381827532
 >>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
@@ -241,6 +245,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 329332377}
   - component: {fileID: 329332376}
   - component: {fileID: 329332375}
@@ -248,12 +253,17 @@ GameObject:
   m_Layer: 0
   m_Name: NNDSAFJK
 =======
+=======
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
   - component: {fileID: 1381827536}
   - component: {fileID: 1381827535}
   - component: {fileID: 1381827534}
   - component: {fileID: 1381827533}
   m_Layer: 0
   m_Name: Sphere
+<<<<<<< HEAD
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
+=======
 >>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -261,8 +271,13 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!65 &329332374
 BoxCollider:
+=======
+--- !u!135 &1381827533
+SphereCollider:
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
 =======
 --- !u!135 &1381827533
 SphereCollider:
@@ -272,7 +287,11 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 329332373}
+=======
+  m_GameObject: {fileID: 1381827532}
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
 =======
   m_GameObject: {fileID: 1381827532}
 >>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
@@ -289,9 +308,15 @@ SphereCollider:
   m_Enabled: 1
   serializedVersion: 3
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &329332375
+=======
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1381827534
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
 =======
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
@@ -303,7 +328,11 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 329332373}
+=======
+  m_GameObject: {fileID: 1381827532}
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
 =======
   m_GameObject: {fileID: 1381827532}
 >>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
@@ -343,7 +372,11 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!33 &329332376
+=======
+--- !u!33 &1381827535
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
 =======
 --- !u!33 &1381827535
 >>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
@@ -353,9 +386,15 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 329332373}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!4 &329332377
+=======
+  m_GameObject: {fileID: 1381827532}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1381827536
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
 =======
   m_GameObject: {fileID: 1381827532}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
@@ -367,15 +406,21 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 329332373}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
 =======
+=======
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
   m_GameObject: {fileID: 1381827532}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -14.536943, y: 1.3027742, z: -10.051779}
+<<<<<<< HEAD
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
+=======
 >>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -388,7 +433,11 @@ SceneRoots:
   m_Roots:
   - {fileID: 223097068}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 329332377}
+=======
+  - {fileID: 1381827536}
+>>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
 =======
   - {fileID: 1381827536}
 >>>>>>> abfefcc1bf68075fac5f99de5972e2558f91a8fb
